@@ -5,22 +5,7 @@
 
 > Which plan should I choose? What’s the difference between plans?
 
-Our free plan gives you access to our drag and drop app development environment as well as Firebase integration, such as Authentication and Cloud Firestore. 
-
-Our *standard plan* offers additional features such as:
-
-- Sample Apps
-- Sharing Projects
-- Download Code
-- Priority Support Chat
-
-Out *Pro plan* offers everything in our standard plan, plus:
-
-- GitHub integration
-- API calls
-- Pre-built Components
-
-You can [try our paid plans](https://flutterflow.io/pricing.html) by signing up for a free trial! If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+For a full overview of our plans, please visit our [Pricing Overview](https://flutterflow.io/pricing.html). If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
 
 > How do I purchase a subscription?
 
@@ -39,13 +24,16 @@ Yes, our subscriptions renew automatically to avoid disrupting your app developm
 
 We do not currently offer the option to pause your subscription.
 
-> How do I upgrade or cancel my paid subscription?
+> How do I upgrade my paid subscription?
 
  To upgrade your subscription, please use the following steps:
   1. After logging into your FlutterFlow account, select “Account” from the top right
   2. Under My Plan select “Manage”
   3. Select “Upgrade” under the plan you would like to upgrade to
   4. Enter your payment information
+ 
+> How do I cancel my paid subscription?
+
  To cancel your paid subscription, please use the following steps:
   1. After logging into your FlutterFlow account, select “Account” from the top right
   2. Under My Plan select “Manage”
